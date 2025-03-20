@@ -60,7 +60,7 @@ export function ModulesSection() {
 
           <div className="flex justify-center mb-10">
             <Image
-              src="https://ext.same-assets.com/2223940660/1930743705.png"
+              src="/bundlecourse.webp"
               alt="Método MENTORIA X"
               width={600}
               height={300}
